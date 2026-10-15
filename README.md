@@ -2,9 +2,11 @@
 
 ## Project Overview
 
-This project explores smoking behaviour, demographic patterns, and selected health risk indicators using an interactive Power BI dashboard.
+The Smoking Health Risk Analysis project explores the relationship between smoking behaviour, demographic characteristics and selected health indicators using Microsoft Power BI.
 
-The dashboard was developed to demonstrate data visualisation, data analysis, and the application of Power BI in exploring health-related data.
+The project presents an interactive dashboard that allows users to explore smoking status, smoking duration, daily cigarette intake, BMI, cholesterol and hypertension indicators across different age groups and genders. An organ-selection interface and health-condition filters provide additional ways to explore the available data.
+
+The aim is to demonstrate practical skills in data visualisation, interactive reporting and public health data interpretation. The analysis focuses on patterns and differences within the dataset and does not establish causal relationships between smoking and health outcomes.
 
 ## Project Objectives
 
