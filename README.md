@@ -54,3 +54,18 @@ The dataset was provided as part of a course. It is included in this project wit
 ## Author
 
 Famous Omoregie
+
+
+## Dashboard Preview
+
+### Full Dashboard
+![Smoking Health Risk Analysis Dashboard](screenshots/dashboard-overview.png)
+
+### Healthy Condition
+![Healthy Condition View](screenshots/1%20re%20healthy.png)
+
+### Kidney Analysis
+![Kidney Analysis View](screenshots/kidney-analysis.png)
+
+### Heart Analysis
+![Heart Analysis View](screenshots/3.png)
