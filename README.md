@@ -8,6 +8,8 @@ The project presents an interactive dashboard that allows users to explore smoki
 
 The aim is to demonstrate practical skills in data visualisation, interactive reporting and public health data interpretation. The analysis focuses on patterns and differences within the dataset and does not establish causal relationships between smoking and health outcomes.
 
+https://github.com/user-attachments/assets/fe3e0829-0c4a-4562-be99-7bd97027781e
+
 ## Project Objectives
 
 - Explore the distribution of smoking status.
